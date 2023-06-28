@@ -47,6 +47,7 @@ img {
 @media screen and (max-width: 300px) {
     div {
         opacity: 0;
+        display: none;
     }
     #info-msg {
         opacity: 100;
